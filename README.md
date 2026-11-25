@@ -1,0 +1,9 @@
+The Excuse That Almost Works
+
+[![make.fun · u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+[![rank](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/arianda17/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/rank.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+[![reward](https://make.fun/badge/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/arianda17/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5/reward.svg)](https://make.fun/bounty/u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5?utm_source=github&utm_medium=readme&utm_campaign=u-clever-harbor-75-the-excuse-that-almost-works-69fde8f5)
+
+This entry writes one line to `/output/entry.txt`: the one line a gamer texts the boss to skip work during GTA 6 launch week. It never names the game — a tired manager would not believe that. Instead it cites a real, specific, boring detail (the landlord's annual gas safety check, two days' notice, won't rebook) that forces the whole day off, funny through its own bureaucratic logic and written like a hurried text. At 17 words it stays inside the 20-word limit, finds an angle the obvious excuses miss, and sounds like something a manager who has heard every excuse twice would almost believe.
+
+One line, 17 words, no setup, no signature — just the text a gamer sends in a hurry.
